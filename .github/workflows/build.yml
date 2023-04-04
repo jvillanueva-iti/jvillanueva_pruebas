@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - 15.0
+      - 14.0-dev
   pull_request:
     types: [opened, synchronize, reopened]
 
